@@ -1,0 +1,8 @@
+{
+    "autoload":{
+        "classmap": ["models"]
+    },
+    "require": {
+        "propel/propel1": "1.6.7"
+    }
+}
